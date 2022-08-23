@@ -4,6 +4,6 @@ class HolaMundo {
 	}
 	
 	public void hola(String string){
-			System.out.print("Hola "+string)
+			System.out.print("Hola bobis")
 	}
 }
