@@ -11,4 +11,6 @@
 - <strong>git push origin  <i>rama</i></strong> (subir los cambios al repositorio)
 - <strong>git branch</strong> (Visualizar las ramas y donde estamos ubicados)
 - <strong>git branch nombre_rama</strong> (Crear rama)
+- <strong>git branch -d nombre_rama</strong> (Eliminar rama)
 - <strong>git checkout nombre_rama</strong> (Cambiar de  rama)
+- <strong>git merge nombre_rama</strong> (Unir cambios dos ramas)
