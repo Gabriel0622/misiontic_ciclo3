@@ -14,3 +14,4 @@
 - <strong>git branch -d nombre_rama</strong> (Eliminar rama)
 - <strong>git checkout nombre_rama</strong> (Cambiar de  rama)
 - <strong>git merge nombre_rama</strong> (Unir cambios dos ramas)
+- <strong>git merge clone <i>uri_repository</i></strong> (Clonar un proyecto)
